@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "SRBMiner-MULTI --algorithm rx/xdag --pool equal.xdag.org:13656 --wallet yP4+wiZkuDG/8k7aPZyk8d2KmZm/8oA4 --password xxx --cpu-threads 4"
+./SRBMiner-MULTI --algorithm rx/xdag --pool equal.xdag.org:13656 --wallet yP4+wiZkuDG/8k7aPZyk8d2KmZm/8oA4 --password xxx --cpu-threads 4
